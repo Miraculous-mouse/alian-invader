@@ -1,0 +1,3 @@
+Additional feature:
+We added the pew sounds when the ship shoot its bolts and a blast sound when the ship is destroyed.
+We also modified the color of welcoming message and ending message.
